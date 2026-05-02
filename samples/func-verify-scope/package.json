@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "@azure/functions": "^4.5.0",
-    "@azure/identity": "^4.5.0"
+    "@azure/identity": "^4.13.1"
   }
 }
